@@ -327,3 +327,7 @@ LGPL-3
 Developed for the Odoo Community.
 
 Made with ❤️ for Odoo Users and Business Owners.
+
+
+<img width="720" height="819" alt="image" src="https://github.com/user-attachments/assets/7da6d300-5b51-4b5c-9e01-b7aff3d9ac9f" />
+
